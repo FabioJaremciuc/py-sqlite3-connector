@@ -1,2 +1,4 @@
 # py-sqlite3-connector
-Jupyter notebook python-sql connection in the real estate project
+Jupyter notebook project to create a python-sqlite connector to manage databases
+
+
